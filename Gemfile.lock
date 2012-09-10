@@ -1,0 +1,15 @@
+PATH
+  remote: .
+  specs:
+    newrelic-yogapants (0.0.1)
+      newrelic_rpm
+
+GEM
+  specs:
+    newrelic_rpm (3.4.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  newrelic-yogapants!
